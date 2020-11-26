@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 590154c6f905cf84b95876ce53c24e04
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alien Mine
+  fontNames:
+  - Alien Mine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4433bf07ddc35e64d8ad2770eb46236d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

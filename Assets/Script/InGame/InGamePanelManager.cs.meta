@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8f871ac3164292b48a5bd28bb53b7439
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Pause_Panel: {instanceID: 0}
+  - Won_Panel: {instanceID: 0}
+  - Lost_Panel: {instanceID: 0}
+  - SelectBannerPrefab: {instanceID: 0}
+  - peoplePrefab: {fileID: 3681619232648297484, guid: ca02f433676a6b744837f06eaed747ed,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

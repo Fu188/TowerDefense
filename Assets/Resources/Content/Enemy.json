@@ -1,0 +1,62 @@
+[
+	{
+		"Id": 0,
+        "Name": "树洞幽灵",
+        "isObtained": true,
+        "ImgPath_160_468":"Textures/Enemies/0",
+        "Hp":100,
+        "Speed":1.6,
+        "PrefabPath":null,
+        "Description": null
+    },
+    {
+		"Id": 1,
+        "Name":"杀马特蜘蛛",
+        "isObtained": true,
+        "ImgPath_160_468":"Textures/Enemies/1",
+        "Hp":300,
+        "Speed":2.5,
+        "PrefabPath":null,
+        "Description": null
+    },
+    {
+		"Id": 2,
+        "Name": "迅影斑斓蛇",
+        "isObtained": true,
+        "ImgPath_160_468":"Textures/Enemies/2",
+        "Hp":50,
+        "Speed":3.5,
+        "PrefabPath":null,
+        "Description": null
+    },
+    {
+		"Id": 3,
+        "Name": "风铃神王",
+        "isObtained": true,
+        "ImgPath_160_468":"Textures/Enemies/3",
+        "Hp":350,
+        "Speed":2,
+        "PrefabPath":null,
+        "Description": null
+    },
+    {
+		"Id": 4,
+        "Name": "死灵风雨师",
+        "isObtained": false,
+        "ImgPath_160_468":"Textures/Enemies/4",
+        "Hp":450,
+        "Speed":2,
+        "PrefabPath":null,
+        "Description": null
+    },
+    {
+		"Id": 5,
+        "Name": "噬魂蚁王",
+        "isObtained": false,
+        "ImgPath_160_468":"Textures/Enemies/5",
+        "Hp":1000,
+        "Speed":1.2,
+        "PrefabPath":null,
+        "Description": null
+	}
+]

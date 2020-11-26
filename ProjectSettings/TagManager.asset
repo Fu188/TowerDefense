@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lobby
+  - Background
+  - Tower
+  - People
+  - Path
+  - Waypoints
+  - Arrow
+  - Enemy
+  - PeopleGenerator
+  - Coin
+  - EnemyGenerator
+  - Main
+  - Carrot
+  - Hero
+  - Planet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - PeopleGenerator
+  - People
+  - Enemy
+  - Arrow
+  - Background
+  - Path
+  - Tower
+  - Coin
+  - EnemyGenerator
+  - Planet
+  - Building
+  - postprocess
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 153599131
+    locked: 0
+  - name: Path
+    uniqueID: 2484301199
+    locked: 0
+  - name: Foreground
+    uniqueID: 3215468345
+    locked: 0

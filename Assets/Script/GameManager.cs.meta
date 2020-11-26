@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 782182737d6e26049992d840bd75f616
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - peoplePrefab_0: {fileID: 3681619232648297484, guid: ca02f433676a6b744837f06eaed747ed,
+      type: 3}
+  - peoplePrefab_1: {fileID: 3681619232648297484, guid: ca02f433676a6b744837f06eaed747ed,
+      type: 3}
+  - peoplePrefab_2: {instanceID: 0}
+  - EnemyPrefab_low: {instanceID: 0}
+  - EnemyPrefab_mid: {instanceID: 0}
+  - EnemyPrefab_high: {instanceID: 0}
+  - TowerPrefab: {instanceID: 0}
+  - EnemyGeneratorPrefab: {instanceID: 0}
+  - PathPrefab: {instanceID: 0}
+  - EnemyPrefab: {instanceID: 0}
+  - WaveNumText: {instanceID: 0}
+  - EnergyNumText: {instanceID: 0}
+  - HPNumText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

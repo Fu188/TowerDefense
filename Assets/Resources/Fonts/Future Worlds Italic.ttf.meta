@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0b1b13a3c8d612a4ea820cb5c52d7597
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Future Worlds
+  fontNames:
+  - Future Worlds
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 98b8f617b48892a4f9169b926dbe0d92, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
